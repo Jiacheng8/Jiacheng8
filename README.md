@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jiacheng8
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Object Detection
-- 📫 How to reach me jiachengcui5@gmail.com
+- 🌱 I’m currently learning Dataset Distillation and Dataset prunning
+- 📫 How to reach me Jiacheng.Cui@mbzuai.ac.ae
 
 <!---
 Jiacheng8/Jiacheng8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
