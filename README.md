@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jiacheng8
-- 👀 I’m interested in Deep Learning
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Dataset Distillation and Dataset prunning
 - 📫 How to reach me Jiacheng.Cui@mbzuai.ac.ae
 
